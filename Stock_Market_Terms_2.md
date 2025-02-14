@@ -1,5 +1,3 @@
-Of course! Here are more stock market-related terms explained in layman's terms:
-
 ### Stock Market Terms (Continued)
 - **Panic Selling**: Widespread sell-off of stocks or an entire market due to fear or overreaction rather than reasoned analysis. Stock exchanges may temporarily halt trading to break the cycle of fear.
 - **Shorting**: An investment strategy that bets on the decline of a stock's price. The investor borrows shares, sells them, and hopes to buy them back at a lower price.
