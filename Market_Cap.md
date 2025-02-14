@@ -23,5 +23,3 @@ So, the market cap of PizzaTech would be ₹1 billion.
 3. **Investment Decisions**: Investors use market cap to make informed decisions about which companies to invest in based on their financial goals and risk tolerance.
 
 Think of market cap as a way to gauge the size and potential of a company, just like you might look at the size and toppings of a pizza to decide which one to buy.
-
-Does that clear things up? 🍕😊
