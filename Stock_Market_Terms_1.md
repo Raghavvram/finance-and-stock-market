@@ -1,5 +1,3 @@
-Sure! Here's a rundown of stock market-related terms in layman's terms:
-
 ### Stock Market Terms
 - **Stock**: Ownership in a company. Each unit is called a share. If you own 50% of YouTube's stock, you own half of YouTube.
 - **Shareholder**: Someone who owns a stock.
