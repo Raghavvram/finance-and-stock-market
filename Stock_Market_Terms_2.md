@@ -33,5 +33,3 @@
 - **Profit Margin**: The percentage of profit a company makes from its revenue after subtracting all costs.
 - **Dollar-Cost Averaging**: Investing a fixed amount of money at regular intervals, regardless of the asset's price, to reduce the impact of market volatility.
 - **Return on Investment**: How much profit or loss you've made on an investment relative to its cost.
-
-I hope you find these explanations helpful! Let me know if you have any more questions.
