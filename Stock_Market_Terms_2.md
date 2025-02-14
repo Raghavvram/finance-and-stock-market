@@ -37,4 +37,3 @@
 - **Supply and Demand**: Supply refers to the quantity of a good or service available, while demand is the quantity people want. Prices rise if demand is high and supply is low, and fall if supply is high and demand is low.
 - **Dollar-Cost Averaging**: Investing a fixed amount of money at regular intervals, regardless of the asset's price, to reduce the impact of market volatility.
 
-I hope this helps! Let me know if you need any more information or clarifications.
