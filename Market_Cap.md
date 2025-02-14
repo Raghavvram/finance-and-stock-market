@@ -1,4 +1,3 @@
-Sure! Let's break down "market cap" in simple terms.
 
 **Market cap**, short for market capitalization, refers to the total value of all a company's shares of stock combined. Imagine you own a giant pizza, and this pizza represents the entire company's stock. Each slice of pizza is a share of stock. The market cap is basically the total price of all these slices put together.
 
