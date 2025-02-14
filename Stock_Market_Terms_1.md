@@ -49,4 +49,3 @@
 - **Pump and Dump**: Fraud involving artificially inflating a stock's price to sell it at a higher price, then selling off the overvalued shares causing others to lose money.
 - **Rug Pull**: A pump and dump scheme in small cryptocurrencies, usually done by their creators.
 
-I hope this helps! Let me know if you have any more questions.
