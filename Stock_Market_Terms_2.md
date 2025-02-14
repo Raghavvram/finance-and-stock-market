@@ -1,6 +1,4 @@
 
-Absolutely! Here is a quick reorganization of your stock market terms into the most commonly used ones and the more niche terms:
-
 ### Most Commonly Used Terms
 - **Market Order**: An order to buy or sell a stock at the best available price in the market. It ensures execution but doesn't guarantee a specific price.
 - **Limit Order**: An order to buy or sell a stock at a specific price or better.
