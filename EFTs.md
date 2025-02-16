@@ -28,7 +28,6 @@ When you buy shares of an ETF, you're buying a piece of the entire basket of ass
 
 ---
 
-Sure! Let's look at a few specific examples of ETFs:
 
 ### Example 1: SPDR S&P 500 ETF (Ticker: SPY)
 - **Type**: Index ETF
