@@ -25,7 +25,7 @@ When you buy shares of an ETF, you're buying a piece of the entire basket of ass
 - **Flexibility**: Can be traded like stocks, offering liquidity and ease of access. Details [here](https://www.investopedia.com/terms/e/etf.asp).
 - **Variety**: Wide range of ETFs available to suit different investment strategies and preferences. More information [here](https://www.etmoney.com/learn/mutual-funds/what-are-exchange-traded-funds-etfs/).
 
-I hope this helps clarify things! Feel free to ask if you have more questions!
+
 ---
 
 Sure! Let's look at a few specific examples of ETFs:
