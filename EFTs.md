@@ -54,7 +54,7 @@ When you buy shares of an ETF, you're buying a piece of the entire basket of ass
 - **Tracks**: The inverse of the S&P 500 Index. If the S&P 500 goes down, this ETF goes up in value.
 - **Use**: Often used as a hedge against a declining market.
 
-These are just a few examples of the many types of ETFs available. Each one offers different benefits and fits different investment strategies. If you have any specific interests or sectors you'd like to explore further, let me know!
+
 
 ---
 
