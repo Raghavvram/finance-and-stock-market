@@ -58,7 +58,7 @@ When you buy shares of an ETF, you're buying a piece of the entire basket of ass
 
 ---
 
-Let's dive deeper into one of the examples to understand how an ETF works in detail. We'll use the **SPDR S&P 500 ETF (Ticker: SPY)** as our example:
+
 
 ### SPDR S&P 500 ETF (SPY)
 
