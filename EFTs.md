@@ -1,5 +1,3 @@
-Sure! Here's the information in markdown format:
-
 ### What is an ETF (Exchange-Traded Fund)?
 
 An **Exchange-Traded Fund (ETF)** is like a basket of different investments (like stocks, bonds, or commodities) that you can buy and sell on a stock exchange, just like you would with a single stock. Think of it as a way to invest in a whole group of assets at once, rather than picking individual stocks or bonds. For more details, you can check out [How to Invest and What It Is - Investopedia](https://www.investopedia.com/terms/e/etf.asp).
