@@ -22,4 +22,3 @@ DIIs are institutional investors that operate within the same country where they
 
 In summary, both FIIs and DIIs play crucial roles in the stock market and the general economy of a country. FIIs bring in foreign capital and influence market sentiment, while DIIs provide stability and support local companies. Together, they contribute to the overall growth and development of the financial markets and the economy.
 
-Does this help clarify the roles of FIIs and DIIs for you?
