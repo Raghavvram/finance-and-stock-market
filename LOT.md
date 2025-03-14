@@ -106,4 +106,3 @@ In forex, a "lot" measures the size of a currency trade, expressed in units of t
 ### Final Thoughts
 A "lot" is just a way to package trades—think of it as the portion size of your financial meal. In stocks, it’s about shares; in forex, it’s about currency units. How it’s determined depends on market rules, broker policies, and practical conventions. For a beginner, focus on affordability, risk, and ease of use—small lots let you dip your toes in without drowning. Once you get the hang of it, you can scale up as your confidence and capital grow.
 
-Got any specific scenarios or terms you’d like me to expand on? I’m here to dig deeper!
