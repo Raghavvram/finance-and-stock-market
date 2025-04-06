@@ -120,4 +120,4 @@ Each player interacts with the market based on their goals:
 - **Market makers** and **high-frequency traders** ensure liquidity and efficiency.
 - **Central banks** and **regulators** shape the overall environment.
 
-Understanding these roles helps traders anticipate market movements and make informed decisions. Let me know if you'd like to explore any of these players further!
+Understanding these roles helps traders anticipate market movements and make informed decisions.
