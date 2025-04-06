@@ -47,4 +47,4 @@ Imagine a stock is in an uptrend, making higher highs (HH) and higher lows (HL).
 
 ---
 
-Understanding MSS is like having a roadmap for navigating the market. It helps traders anticipate changes and make informed decisions. Let me know if you'd like to dive deeper into any part of this!
+Understanding MSS is like having a roadmap for navigating the market. It helps traders anticipate changes and make informed decisions.
